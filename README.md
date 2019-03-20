@@ -6,7 +6,7 @@
 
 
 ## 기능
-1. Spring #1
+1. sprint#1
 - https://drive.google.com/open?id=1RmoWJnF5UHFPWsYuLjNzRcyz67VNH_gvYLdv7TkYNm4
 - https://drive.google.com/open?id=1fLZV_rFtZZiPDoIU_C4mVFNQH7pfZCg2UyqY2kELi5I
 
