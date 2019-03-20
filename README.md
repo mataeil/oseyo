@@ -2,9 +2,6 @@
 
 오세요 백엔드 서비스 입니다.
 
-## 디플로이먼트 다이어그램
-
-
 ## 기능
 1. sprint#1
 - https://drive.google.com/open?id=1RmoWJnF5UHFPWsYuLjNzRcyz67VNH_gvYLdv7TkYNm4
@@ -32,3 +29,5 @@ production 환경에서는 MySql or MariaDB를 사용합니다.
 - SmsClient를 Inject 해서 사용 (예:MobileMessageService.java)
 - 현재 구현체는 네이버클라우드의 SENS 시스템에 API를 콜 (https://www.ncloud.com/product/applicationService/sens)
 
+## 기타 관련 자료
+- https://drive.google.com/open?id=1JgFSy9TtXlAmxi4knPJqsUEUiG9FCOjP
